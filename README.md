@@ -1,2 +1,0 @@
-# testingAPI
-for關貿
